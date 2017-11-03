@@ -1,0 +1,22 @@
+body{
+  background: url("../images/background1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.dropdown-menu{
+  background-color: lightskyblue;
+}
+
+h1{
+  font-weight: bolder;
+  font-size: xx-large;
+  text-align: center;
+  text-shadow: 6px 6px 6px black;
+
+}
+h2{
+  color: white;
+  text-shadow: 4px 4px 4px blue;
+}
