@@ -4,6 +4,16 @@ body{
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
+
+}
+.myLink{
+  float: right;
+}
+textarea{
+  height: 60%;
+  width: 100%;
+  resize: none;
+  background: transparent;
 }
 .dropdown-menu{
   background-color: lightskyblue;
