@@ -16,8 +16,8 @@ body{
   border: thin solid white;
 }
 textarea{
-  height: 60%;
   width: 100%;
+  height: 250px;
   resize: none;
   background: transparent;
 }
