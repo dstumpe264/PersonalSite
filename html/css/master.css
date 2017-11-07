@@ -21,6 +21,14 @@ textarea{
   resize: none;
   background: transparent;
 }
+.bottom{
+  color: white;
+  height: 100px;
+}
+.below{
+  color: black;
+  height: 100px;
+}
 
 
 h1{
