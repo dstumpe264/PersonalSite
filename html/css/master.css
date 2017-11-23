@@ -15,6 +15,11 @@ iframe{
   height: 400px;
   width: 500px;
 }
+p{
+  overflow: scroll;
+  height: 75%;
+}
+
 
 .github:hover, .linkedin:hover {
   border: thin solid white;
@@ -43,7 +48,11 @@ h1{
   font-size: xx-large;
   text-align: center;
   text-shadow: 6px 6px 6px white;
-
+}
+.intro{
+  font-size: 400%;
+  text-shadow: none;
+  text-decoration: underline;
 }
 h1 .hover{
   color: yellow;
@@ -51,4 +60,8 @@ h1 .hover{
 h2{
   color: white;
   text-shadow: 4px 4px 4px blue;
+  text-align: center;
+}
+h3{
+  text-align: center;
 }
