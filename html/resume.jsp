@@ -96,10 +96,26 @@
       </div>
       <div class="row">
         <div class="col">
+          <h3>Skills</h3>
+          <h4>Management</h4>
+            <p>Several management positions in the restaurant industry. Managed workload, employees, and food services.</p>
+          <h4>Communication</h4>
+            <p>I have collaborated on multiple projects. We used github, Trello, and other communication devices to work together successfully. </p>
+          <h4>Leadership</h4>
+            <p>As a Corporal of the United States Marine Corps, and a Collateral Duty Inspector for the maintenance of T-64 helicopter engines, it is my responsibility to lead, guide, and train my junior Marines. Leadership is taught to Marines during initial recruit training and continues through a Marines entire military career. Multiple leadership courses are required through the progression of each rank.</p>
         </div>
         <div class="col">
-        </div>
-        <div class="col">
+          <h3>Experience</h3>
+          <h4>Corporal | United States Marine Corps | Sept 23, 2012 to Sept 23 2017</h4>
+          <ul>
+            <li>Recruit training taught me the skills to lead Marines with confidence, proper etiquette, and values. <li>
+            <li>Lance Corporal’s Course and Corporal’s Course has improved those skills.
+            <li>As a Collateral Duty Inspector, I am charged with the responsibility to ensure that the proper maintenance procedures are followed, to ensure safety rules are practiced, and to inspect the worker’s work. My role is to instruct a crew to perform maintenance on T-64 engines, to rebuild them within performance standards, then, issue the engine back to a squadron. Troubleshoot engines on the aircraft for possible reasons of failures, and perform maintenance to return the engine within standards to avoid taking the aircraft offline.
+            </ul>
+        <h4>Prep/sandwich maker | Kneaders | April 2011 to Sept 2012</h4>
+        <ul>
+            <li>Worked in the kitchen preparing the restaurant for a smooth operation for the day’s heavy customer inflow. Made breakfast and lunch items for customers. I started as a line worker and moved up quickly to leading the kitchen. I was trusted to run a smooth shift and provide customers with a satisfactory visit.
+            </ul>
         </div>
       </div>
     </div>
