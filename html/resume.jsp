@@ -18,10 +18,6 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#skills">Skills <span class="sr-only">(current)</span></a>
-
-            </li>
             <a class="nav-link" href="index.html#Projects">Projects <span class="sr-only">(current)</span></a>
 
             <li class="nav-item dropdown">
@@ -106,13 +102,13 @@
         </div>
         <div class="col">
           <h3>Experience</h3>
-          <h4>Corporal | United States Marine Corps | Sept 23, 2012 to Sept 23 2017</h4>
+          <h5>Corporal | United States Marine Corps | Sept 23, 2012 to Sept 23 2017</h5>
           <ul>
             <li>Recruit training taught me the skills to lead Marines with confidence, proper etiquette, and values. <li>
             <li>Lance Corporal’s Course and Corporal’s Course has improved those skills.
             <li>As a Collateral Duty Inspector, I am charged with the responsibility to ensure that the proper maintenance procedures are followed, to ensure safety rules are practiced, and to inspect the worker’s work. My role is to instruct a crew to perform maintenance on T-64 engines, to rebuild them within performance standards, then, issue the engine back to a squadron. Troubleshoot engines on the aircraft for possible reasons of failures, and perform maintenance to return the engine within standards to avoid taking the aircraft offline.
             </ul>
-        <h4>Prep/sandwich maker | Kneaders | April 2011 to Sept 2012</h4>
+        <h5>Prep/sandwich maker | Kneaders | April 2011 to Sept 2012</h5>
         <ul>
             <li>Worked in the kitchen preparing the restaurant for a smooth operation for the day’s heavy customer inflow. Made breakfast and lunch items for customers. I started as a line worker and moved up quickly to leading the kitchen. I was trusted to run a smooth shift and provide customers with a satisfactory visit.
             </ul>
