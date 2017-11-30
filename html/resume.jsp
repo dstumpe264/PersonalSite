@@ -18,22 +18,11 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
             <a class="nav-link" href="index.html#Projects">Projects <span class="sr-only">(current)</span></a>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Resume
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="resume.jsp">Resume Home</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#exp">Experience</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#edu">Education</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#cert">Technology Certifications</a>
-              </div>
-            </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="resume.jsp">Resume</a>
+              </li>
           </ul>
           <a class="navbar-brand github" href="https://github.com/dstumpe264" target="_blank" title="GitHub Repos">
             <img src="images/GitHub-Mark-120px-plus.png" width="30" height="30" alt="GitHub Logo linked to David Stumpe's repos">
