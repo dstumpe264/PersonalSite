@@ -1,24 +1,28 @@
-body{
+/*body{
   background: url("../images/background1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
 
+}*/
+.header{
+  /*background: url("../images/background1.jpg");*/
+  background: url("../images/rainbg.gif");
+  background-repeat: no-repeat;
+  background-position:bottom;
+  background-size: cover;
 }
-.github, .linkedin {
+/*.github, .linkedin {
   border: thin solid black;
   padding: 10px;
   float: right;
-}
+}*/
 iframe{
   height: 400px;
   width: 500px;
 }
-p{
-  overflow: scroll;
-  height: 75%;
-}
+
 
 
 .github:hover, .linkedin:hover {
@@ -47,23 +51,43 @@ a{
 
 h1{
   font-weight: bolder;
-  font-size: xx-large;
+  font-size: 50px;
   text-align: center;
-  text-shadow: 6px 6px 6px white;
+  /* text-shadow: 6px 6px 6px white; */
 }
 .intro{
   font-size: 400%;
   text-shadow: none;
   text-decoration: underline;
 }
-h1 .hover{
-  color: yellow;
-}
+
 h2{
   color: white;
-  text-shadow: 4px 4px 4px blue;
   text-align: center;
 }
 h3{
   text-align: center;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  /* border: 1px solid black; */
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: blue;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: blue;
 }
