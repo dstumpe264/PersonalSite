@@ -1,0 +1,21 @@
+/* CSS Document */
+body{
+	position: relative;
+	
+}
+
+div.col-4 div{
+	top: 100px;
+	position: fixed;
+	text-color: black;
+}
+
+/*
+div.col-8 div{
+	height: 500px;
+}
+*/
+
+h1{
+	text-align: center;
+}
